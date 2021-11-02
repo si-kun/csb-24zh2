@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://si-kun.github.io/csb-24zh2/static/css/main.42d79f0c.chunk.css",
+    "main.js": "https://si-kun.github.io/csb-24zh2/static/js/main.4502383d.chunk.js",
+    "main.js.map": "https://si-kun.github.io/csb-24zh2/static/js/main.4502383d.chunk.js.map",
+    "runtime-main.js": "https://si-kun.github.io/csb-24zh2/static/js/runtime-main.a44b3ee5.js",
+    "runtime-main.js.map": "https://si-kun.github.io/csb-24zh2/static/js/runtime-main.a44b3ee5.js.map",
+    "static/js/2.ede0cda0.chunk.js": "https://si-kun.github.io/csb-24zh2/static/js/2.ede0cda0.chunk.js",
+    "static/js/2.ede0cda0.chunk.js.map": "https://si-kun.github.io/csb-24zh2/static/js/2.ede0cda0.chunk.js.map",
+    "index.html": "https://si-kun.github.io/csb-24zh2/index.html",
+    "static/css/main.42d79f0c.chunk.css.map": "https://si-kun.github.io/csb-24zh2/static/css/main.42d79f0c.chunk.css.map",
+    "static/js/2.ede0cda0.chunk.js.LICENSE.txt": "https://si-kun.github.io/csb-24zh2/static/js/2.ede0cda0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a44b3ee5.js",
+    "static/js/2.ede0cda0.chunk.js",
+    "static/css/main.42d79f0c.chunk.css",
+    "static/js/main.4502383d.chunk.js"
+  ]
+}
